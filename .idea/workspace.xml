@@ -23,6 +23,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -45,7 +46,7 @@
       <workItem from="1605680680715" duration="4608000" />
       <workItem from="1605705736543" duration="1225000" />
       <workItem from="1605746482871" duration="6863000" />
-      <workItem from="1605766590937" duration="6535000" />
+      <workItem from="1605766590937" duration="7160000" />
     </task>
     <servers />
   </component>

@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb70ca6e-0a55-49a2-b356-255e4292302c" name="Default Changelist" comment="" />
+    <list default="true" id="eb70ca6e-0a55-49a2-b356-255e4292302c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/luyen-tap-mang-1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyen-tap-mang-1/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyen-tap-mang-1/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyen-tap-mang-1/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyen-tap-mang-1/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyen-tap-mang-1/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyen-tap-mang-1/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyen-tap-mang-1/bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyen-tap-mang-1/bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ung-dung-vui-fakinh-textarea-on-typingAssignment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +44,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kS4DNy1L6SOzEBR6d0Bc6ndcmF" />
   <component name="ProjectViewState">
@@ -46,11 +80,31 @@
       <workItem from="1605680680715" duration="4608000" />
       <workItem from="1605705736543" duration="1225000" />
       <workItem from="1605746482871" duration="6863000" />
-      <workItem from="1605766590937" duration="7160000" />
+      <workItem from="1605766590937" duration="7413000" />
+      <workItem from="1605795123628" duration="89000" />
+      <workItem from="1605832530233" duration="22000" />
+      <workItem from="1605832641156" duration="5744000" />
+      <workItem from="1605852336183" duration="2861000" />
+      <workItem from="1605956694083" duration="61000" />
+      <workItem from="1606047531250" duration="750000" />
+      <workItem from="1606093272288" duration="192000" />
+      <workItem from="1606136814626" duration="958000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
